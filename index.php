@@ -64,12 +64,14 @@
 			</div>
 		  </div>
 	    </div>
+<div id="sidebar">
+<?php include("sidebar.php");?>
+<p>This is the area it should be</p>
+</div>
 	<!-- end #content -->
   <!-- sidebar starts -->
-	<div id="sidebar">
-	<?php include("sidebar.php");?>
-	</div>
-  <!-- sidebar ends -->
+
+
 </div>
 
 <div id="footer" class="container">
